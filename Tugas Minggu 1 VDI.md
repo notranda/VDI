@@ -11,3 +11,16 @@ Dalam jurnal ini dibahas 3 aspek utama agar visualisasi data yang dilakukan dapa
 ### Spesifikasi Visualisasi
 Spesifikasi visualisasi adalah langkah awal untuk menentukan cara dan bagaimana sebuah data itu akan divisualisasikan, misalnya dimulai dari data tersebut diambil dari mananya, lalu diimport, setelahnya dimanipulasi (preprocessing), selanjutnya barulah diubah ke dalam bentuk visual.
 Dalam visualisasi tentunya terdapat elemen penting, yaitu datanya itu sendiri, marks atau elemen visual misalnya batang, garis, titik, legenda (keterangan), dan warna serta juga pemetaannya yaitu menyambungkan data dengan elemen visual tersebut.
+
+Tools atau software yang akan digunakan juga ditentukan dalam penentuan spesifikasi visualisasi di sini. Software untuk visualisasi banyak sekali, dan jika dibedakan berdasarkan kemudahan penggunaannya ada 4 yaitu:
+1. Low-level language: Prefuse, Flare, Protvis, D3, Vega, Reactive Vega
+2. High-level language: ggplot2, Vega-Lite, Altair, Echarts, VizQL, ZQL
+3. GUI-based Tools (ini yang familiar dan biasa digunakan banyak orang): Tableu, Excel, Google Sheets, Microsoft Power BI, dan lainnya.
+4. Underspecified Language: zenvisage, DeepEye, APT, SW, Eviza, Evizeon
+
+### Pendekatan efisien untuk proses visualisasi
+Dibahas 3 pendekatan yaitu:
+1. Data asli yang langsung divisualisasikan secara cepat dan tepat.
+2. Data perkiraan yang divisualisasikan karena menghemat sumber daya komputasi.
+3. Progressive data visualization atau memvisualisasikan datanya secara progresif dan bertahap
+
