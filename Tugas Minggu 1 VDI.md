@@ -22,5 +22,8 @@ Tools atau software yang akan digunakan juga ditentukan dalam penentuan spesifik
 Dibahas 3 pendekatan yaitu:
 1. Data asli yang langsung divisualisasikan secara cepat dan tepat.
 2. Data perkiraan yang divisualisasikan karena menghemat sumber daya komputasi.
-3. Progressive data visualization atau memvisualisasikan datanya secara progresif dan bertahap
+3. Progressive data visualization atau memvisualisasikan datanya secara progresif dan bertahap.
 
+Contoh dari pendekatan yang pertama adalah Query Translation, dimana membutuhkan DBMS untuk membuat query yang dapat memvisualisasikan data. (data langsung divisualisasikan)
+Contoh dari pendekatan yang kedua adalah AQP (Approximate Query Processing), cara kerjanya dengan menggunakan sebagian data yang merepresentasikan sehingga memberikan perkiraan visualisasi. Kelebihan pendekatan ini cepat dilakukan komputasinya, walaupun dengan mengorbankan sedikit kualitas visualisasi datanya.
+Contoh dari pendekatan yang ketiga adalah Hierarchical Aggregation, cara kerjanya dengan membuat struktur hirarki dengan mengagregasi data dalam tingkatan yang berbeda seperti 
