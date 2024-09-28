@@ -49,15 +49,14 @@ Pembaca harus mengira-ngira arti warna dan perlu bekerja ekstra untuk memahami h
 BIKIN PUSING
 
 ## Visualization 2
-
-Sumber:  \
-Why? Karena:
-1. Form and Functions ✅\
-Bentuk visualisasi yang digunakan yaitu menyerupai partikel virus sangat menggambarkan tujuan untuk merepresentasikan partikel virus dari berbagai pandemi selama sejarah dunia. Dengan perbedaan besarnya menunjukkan skala keparahan (jumlah kematian korban).
-2. Justifying Design Choices ✅\
-Desain yang dipilih seperti bentuk tiga dimensi (mirip virus) sangat mendukung tema. Serta pemilihan warna yang cerah dan kontrak juga membantu pembaca dalam membedakan setiap pandemi. Dan juga terdapat desain garis waktu sehingga memudahkan pembaca dalam melihat kapan pandemi tersebut berlangsung.
-3. Creating Accessibility Through Intuitive Design ✅\
-Pembaca dapat mudah memahami isi dari visualisasi ini hanya dengan melihat besarnya gambar virus serta melihat garis waktunya tanpa memerlukan waktu ataupun pengetahuan tentang medis.
-4. Cognitive Load Minimization ✅\
-Visualisasi ini tidak membuat pembaca terbebani karena desain dan elemen visualnya konsisten (bentuk virusnya tidak ada yg berbeda, serta warna yang tidak terlalu banyak pilihan) sehingga pembaca dapat mudah mengikuti pola visual yang sama.\
-Kesimpulannya visualisasi tersebut memenuhi ke empat prinsip.
+![image](https://github.com/user-attachments/assets/9166b17e-9efa-4ddc-8103-fc27c0458921)
+Sumber: https://www.codeconquest.com/blog/12-bad-data-visualization-examples-explained/ \
+Why? Karena melanggar 2 prinsip yaitu:
+1. Form and Functions ❌\
+Ukuran diagram batang yang mewakili persentase pemilihan untuk Nicolas Maduro 50,66% dan juga Henrique Capriles 49,07% perbedaan jaraknya sangat besar padahal selisih angkanya sekitar 1,59% saja. Sehingga hal tersebut terlihat menipu dan tidak sesuai dengan data aslinya.
+2. Justifying Design Choices ❌\
+Pemilihan bentuk grafik batang berdimensi tiga tidak cocok karena dapat membingungkan pembaca terutama jika sudut pandang atau penglihatannya tidak sesuai dengan perbandingan data.
+3. Creating Accessibility Through Intuitive Design, biasa saja 1/2 \
+Warna yang digunakan cukup kontras dan membedakan, namun kurang intuitif. Jika bentuknya 2 dimensi akan jauh lebih mudah dipahami dengan sekali lihat tanpa perlu melihat angka.
+4. Cognitive Load Minimization, biasa saja 1/2 \
+Sebenernya tidak masalah menggunakan grafik yang berbentuk 3 dimensi, namun tidak diperlukan juga. Karena akan jauh lebih sederhana dan mudah dipahami jika grafiknya dua dimensi.
